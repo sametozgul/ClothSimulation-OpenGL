@@ -21,7 +21,7 @@
 const float PARTICLE_RADIUS = 10.0f;
 const float TIME_STEP = 0.1f;
 
-const int ROW = 200;
+const int ROW = 100;
 const int COL = 50;
 const float REST_DISTANCE = 30.0f;
 const float CLICK_TOLERANCE = 5.0f;
